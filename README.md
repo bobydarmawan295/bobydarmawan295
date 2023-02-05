@@ -2,5 +2,5 @@
 
 Perkenalkan nama saya **Boby Darmawan**.
 
-Saya seorang **Mahasiswa** jurusan sistem informasi tahun ke-3.
+Saya seorang **Mahasiswa** Jurusan Sistem Informasi tahun ke-3.
 
